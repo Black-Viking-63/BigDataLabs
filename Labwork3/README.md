@@ -1,3 +1,23 @@
-# BigDataLabs
+# LabWork№3
 
-В директории Labworks#X, где 1 <= X <= 4, соответствует номеру лабораторной работы.
+## Все тесты выполнены успешно.
+
+
+### ExpiringStateTest
+![Screenshot](image/ExpiringStateTest.png)
+
+
+
+### HourlyTipsTest
+![Screenshot](image/HourlyTipsTest.png)
+
+
+
+### RideCleansingTest
+![Screenshot](image/RideCleansingTest.png)
+
+
+
+
+### RidesAndFaresTest
+![Screenshot](image/RidesAndFaresTest.png)
